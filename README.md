@@ -37,4 +37,3 @@ Esta calculadora permite estimar el volumen de producción documental diaria, me
 | **Metadatos** | Peso metadatos ISO 23081 | 3 KB |
 
 ## 📊 Fórmula de Cálculo
-
